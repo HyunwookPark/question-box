@@ -17,11 +17,11 @@
 
 ![image](https://user-images.githubusercontent.com/22320079/192438916-c7635948-4c32-43db-9e89-648b929692f8.png)
 
-`Issues`タブを選択
+※`Issues`タブを選択
 
 ![image](https://user-images.githubusercontent.com/22320079/192431423-e05784cf-60ff-46ef-99c2-edd7472ab476.png)
 
-`New Issue`ボタンを押すと入力フォームが表示される
+※`New Issue`ボタンを押すと入力フォームが表示される
 
 ## issueの書き方
 
