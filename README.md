@@ -26,3 +26,7 @@
 他の質問と関連している場合は `#101` のようにissue番号を書くとリンクがつけられます。
 
 ![image](https://user-images.githubusercontent.com/22320079/192431288-54992ba8-7eb1-41e2-acc4-1b744de0c7ac.png)
+
+質問に関連するラベルを選択してください。（複数可）
+
+![image](https://user-images.githubusercontent.com/22320079/192433648-c04c5d4b-6264-4a2e-ae80-6d22183394e9.png)
