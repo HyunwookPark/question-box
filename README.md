@@ -40,6 +40,7 @@
 
 質問に関連するラベルを選択してください。（複数可）
 
+![image](https://user-images.githubusercontent.com/22320079/192680170-89f22d13-35a6-4459-9bc4-16d6b91465e0.png)
 ![image](https://user-images.githubusercontent.com/22320079/192433648-c04c5d4b-6264-4a2e-ae80-6d22183394e9.png)
 
 ## 議論終了時
